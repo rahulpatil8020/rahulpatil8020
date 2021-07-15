@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulpatil8020
+- 👋 Hi, I’m Rahul Patil
 - 👀 I’m a Data Science and Machine Learning enthusiast.
 - 🌱 I’m currently persuing Bachelor of Engineering Degree in Computer Engineering
 - 💞️ I’m currently working on Some Data Science Projects and Willing to contribute in Open Source Technologies
