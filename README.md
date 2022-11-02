@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Patil
-- 👀 I’m a Data Science and Machine Learning enthusiast.
-- 🌱 I’m currently persuing Bachelor of Engineering Degree in Computer Engineering
-- 💞️ I’m currently working on Some Data Science Projects and Willing to contribute in Open Source Technologies
+- 👀 I’m a Full Stack Developer.
+- 🌱 I’m currently persuing Masters in Computer Science at California State University, East Bay.
+- 💞️ I’m currently working on various web applications and willing to work for more.
 - 📫 You can reach me through my email - rahuldpatil20@gmail.com
 
 <!---
