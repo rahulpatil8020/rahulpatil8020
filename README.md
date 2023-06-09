@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm [Your Name], a [Your Profession/Interests]. I am passionate about [specific interests or technologies]. This GitHub profile is a showcase of my projects, contributions, and open-source work.
+I'm Rahul Patil, a full-stack developer. I am passionate about MERN stack and working with various APIs. This GitHub profile is a showcase of my projects, contributions, and open-source work.
 
 ## Projects
 Here are a few highlighted projects I've worked on:
 
-- **Project 1:** A brief description of project 1 and its key features.
+- **Pirate's Adventures:** It's a social media like application for people who wanna go for adventures. Users can create the adventures and list some details and then other users can take part. They can create chat rooms for adventures to discuss the details as well.
 - **Project 2:** A brief description of project 2 and its key features.
 - **Project 3:** A brief description of project 3 and its key features.
 
