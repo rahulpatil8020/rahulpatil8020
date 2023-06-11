@@ -18,7 +18,7 @@ I'm Rahul Patil, a full-stack developer. I am passionate about MERN stack and wo
 Here are a few highlighted projects I've worked on:
 
 - **Pirate's Adventures:** It's a social media like application for people who wanna go for adventures. Users can create the adventures and list some details and then other users can take part. They can create chat rooms for adventures to discuss the details as well.
-- **Project 2:** A brief description of project 2 and its key features.
+- **Gymaniac** A brief description of project 2 and its key features.
 - **Project 3:** A brief description of project 3 and its key features.
 
 Feel free to explore my repositories to find more projects and see my contributions.
@@ -26,20 +26,24 @@ Feel free to explore my repositories to find more projects and see my contributi
 ## Skills
 Here are some of the key skills and technologies I work with:
 
-- Programming languages: [List of programming languages you're proficient in]
-- Frameworks and libraries: [List of frameworks and libraries you're experienced with]
-- Tools and technologies: [List of tools and technologies you're familiar with]
-- [Additional skills or areas of expertise]
+- Programming languages: Javascript, C++, Python
+- Frameworks and libraries: React, Express, Node
+- Tools and technologies: MongoDB, SQL, AWS
+- Problem Solving, Critical Thinking, Database Management
 
+<!----
 ## Contributions
 I'm an active contributor to open-source projects. Some of my notable contributions include:
 
 - [Project name]: Brief description of your contribution.
 - [Project name]: Brief description of your contribution.
 - [Project name]: Brief description of your contribution.
+---->
 
 ## Contact Me
-If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me via [email/website/linkedin/twitter].
+If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me via 
+Email: rahuldpatil20@gmail.com
+LinkedIn: https://www.linkedin.com/in/rahuldp20
 
 ## Let's Connect
 Connect with me on social media and professional platforms:
