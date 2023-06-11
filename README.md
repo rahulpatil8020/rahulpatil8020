@@ -1,18 +1,8 @@
-- 👋 Hi, I’m Rahul Patil
-- 👀 I’m a Full Stack Developer.
-- 🌱 I’m currently persuing Masters in Computer Science at California State University, East Bay.
-- 💞️ I’m currently working on various web applications and willing to work for more.
-- 📫 You can reach me through my email - rahuldpatil20@gmail.com
-
-<!---
-rahulpatil8020/rahulpatil8020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm Rahul Patil, a full-stack developer. I am passionate about MERN stack and working with various APIs. This GitHub profile is a showcase of my projects, contributions, and open-source work.
+Hello, I'm Rahul Patil, a dedicated and driven Master's student in Computer Science at Cal State East Bay. With a strong passion for full-stack development, I consistently strive to expand my skills and knowledge in the field. My expertise lies in utilizing the MERN stack - MongoDB, Express.js, React.js, and Node.js - to create robust and scalable web applications.
+
 
 ## Projects
 Here are a few highlighted projects I've worked on:
