@@ -17,7 +17,7 @@ I'm Rahul Patil, a full-stack developer. I am passionate about MERN stack and wo
 ## Projects
 Here are a few highlighted projects I've worked on:
 
-**Pirate's Adventures:** 
+**Pirate's Adventures:**  (https://pirates-adventures.onrender.com)
 
 - Innovative social media platform designed exclusively for avid adventure enthusiasts.
 - Seamless event creation and participation functionalities empower users to organize and join thrilling adventure experiences while sharing comprehensive event details.
@@ -73,16 +73,15 @@ I'm an active contributor to open-source projects. Some of my notable contributi
 ---->
 
 ## Contact Me
-If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me via 
-Email: rahuldpatil20@gmail.com
-LinkedIn: https://www.linkedin.com/in/rahuldp20
+If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me via rahuldpatil20@gmail.com
+
 
 ## Let's Connect
 Connect with me on social media and professional platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Website/Blog](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/rahuldp20)
+- [Twitter](https://twitter.com/rahuldpatil)
+<!-- - [Website/Blog](https://www.yourwebsite.com) -->
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you!
 
